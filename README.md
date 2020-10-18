@@ -1,6 +1,6 @@
 # Projeto Final da Disciplina de Projeto de Website 
 
-Este projeto foi desenvolvidos pelos alunos:  
+Este projeto foi desenvolvido pelos alunos:  
 
 * Ana Valéria Batista de Sousa  
 * Leonardo Silva Castro  
